@@ -1,0 +1,1 @@
+document.getElementById("mbrs-cookiesBanner").style.display = "none";
